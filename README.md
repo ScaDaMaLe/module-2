@@ -1,4 +1,4 @@
-# Module2
+# Module-2
 
 ### Distributed Deep Learning: Introduction to the theory and implementation of distributed deep learning.
 
