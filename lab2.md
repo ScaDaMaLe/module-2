@@ -4,4 +4,4 @@ the paper: https://arxiv.org/abs/1411.4555
 
 To lighten the burden on training the network, you can use any pre-trained network in tf.keras.applications.
 
-Please email me (payberah@kth.se) your code and one-page document to explain your code by Nov. 20.
+Please submit your code and one-page document to explain your code by Nov. 20 in Canvas.
